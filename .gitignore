@@ -1,0 +1,11 @@
+*.pyc
+__pycache__
+myenv
+db.mysql3
+/static
+.DS_Store
+bin
+include
+local
+pip-selfcheck.json
+lib
